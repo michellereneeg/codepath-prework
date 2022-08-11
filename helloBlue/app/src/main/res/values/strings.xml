@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">helloBlue</string>
+    <string name="placeholder_string">Enter your own message!</string>
+</resources>
